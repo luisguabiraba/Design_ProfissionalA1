@@ -1,0 +1,72 @@
+.logo-navbar {
+    width: 120px;
+}
+
+.caminhao{
+    width: 800px;
+    margin-left: 10px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.25);
+}
+
+.nav-item a{
+    margin-left: 30px;
+}
+
+.navbar-brand img {
+    margin-right: 12px;
+}
+
+.navbar-nav {
+    margin-right: 20px;
+}
+
+.navbar {
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+}
+
+.corpo {
+    background-color: #1b1f27;
+    color: #e6e6e6;
+}
+
+.nav-link {
+  position: relative; 
+  padding: 0.5rem 1rem; 
+  transition: color 0.3s ease; 
+}
+
+.nav-link::after {
+  content: ''; 
+  position: absolute; 
+  width: 0%; 
+  height: 2px; 
+  bottom: 0; 
+  left: 0; 
+  background-color: currentColor; 
+  transition: width 0.3s ease; 
+}
+
+.nav-link:hover::after {
+  width: 100%; 
+}
+
+#map {
+    height: 450px;
+    width: 90%;
+    max-width: 1000px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.titulo {
+    color: #1853ea;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.map-color {
+    color: #734eab;
+    margin-bottom: 20px;
+}
