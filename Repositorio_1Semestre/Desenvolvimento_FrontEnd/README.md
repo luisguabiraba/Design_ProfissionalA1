@@ -12,7 +12,7 @@ Durante o semestre, foram trabalhados:
 - Boas práticas de organização e semântica
 
 
-## 🚛 Projeto: Caminhão de Luxo
+## Projeto: Caminhão de Luxo
 
 O projeto desta pasta é o site **“Caminhão de Luxo”**, criado como exercício avaliativo.
 
