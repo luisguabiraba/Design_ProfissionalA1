@@ -8,9 +8,9 @@ A proposta é registrar **a evolução acadêmica e profissional** dentro da ár
 Eu sou o **Luís Gustavo**, estudante de ADS, futuro desenvolvedor — e também editor audiovisual.
 
 Gosto de tecnologia, programação, design digital e tudo que envolve criar algo do zero.  
-Estou construindo minha base técnica enquanto melhoro minha organização, disciplina e evolução profissional.
+Estou construindo minha base técnica enquanto melhoro minha organização, disciplina e visão profissional.
 
-Atualmente sigo aprendendo projetos nas áreas de:
+Atualmente no curso estou estudando projetos nas áreas de:
 
 -  Programação em C e fundamentos de web  
 -  Edição de vídeo e design (Adobe Premiere, Photoshop)  
