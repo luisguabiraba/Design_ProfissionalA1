@@ -8,14 +8,13 @@ A proposta é registrar **a evolução acadêmica e profissional** dentro da ár
 Eu sou o **Luís Gustavo**, estudante de ADS, futuro desenvolvedor — e também editor audiovisual.
 
 Gosto de tecnologia, programação, design digital e tudo que envolve criar algo do zero.  
-Estou construindo minha base técnica enquanto trabalho minha organização, disciplina e evolução profissional.
+Estou construindo minha base técnica enquanto melhoro minha organização, disciplina e evolução profissional.
 
-Atualmente sigo aprendendo e desenvolvendo projetos nas áreas de:
+Atualmente sigo aprendendo projetos nas áreas de:
 
--  Programação em C, Python e fundamentos de web  
+-  Programação em C e fundamentos de web  
 -  Edição de vídeo e design (Adobe Premiere, Photoshop)  
 -  Banco de dados, modelagem e lógica computacional  
--  Desenvolvimento profissional e criação de portfólio
 
 📬 **Contato:** luisgustavogoncalves038@gmail.com  
 🔗 **GitHub:** https://github.com/luisguabiraba  
@@ -24,8 +23,6 @@ Atualmente sigo aprendendo e desenvolvendo projetos nas áreas de:
 ---
 
 ## 📁 Estrutura do Repositório
-
-Organização seguindo o modelo solicitado pela professora:
 
 ```text
 Design_ProfissionalA1/
