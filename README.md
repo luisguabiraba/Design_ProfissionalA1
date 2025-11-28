@@ -1,13 +1,11 @@
 #  Design Profissional – A1
 
-Este repositório reúne **todas as evidências e entregáveis** da A1 da disciplina **Design Profissional**, cursada no 1º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UDF.  
-A proposta é demonstrar **organização, evolução acadêmica e posicionamento profissional** dentro da área de tecnologia.
-
----
+Este repositório reúne **todas as principais ativdades** feitas durante o primeiro semestre de Análise e Desenvolvimento de Sistemas na UDF.  
+A proposta é registrar **a evolução acadêmica e profissional** dentro da área de tecnologia durante o curso.
 
 ##  Sobre mim
 
-Oi! Eu sou o **Luís Gustavo**, estudante de ADS, futuro desenvolvedor — e também editor audiovisual nas horas vagas (e às vezes nas horas sérias também 😄).
+Eu sou o **Luís Gustavo**, estudante de ADS, futuro desenvolvedor — e também editor audiovisual.
 
 Gosto de tecnologia, programação, design digital e tudo que envolve criar algo do zero.  
 Estou construindo minha base técnica enquanto trabalho minha organização, disciplina e evolução profissional.
