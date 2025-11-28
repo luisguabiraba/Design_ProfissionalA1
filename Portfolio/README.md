@@ -15,7 +15,7 @@ Um projeto completo feito em linguagem C, utilizando funções, estrutura de dec
 - Tratamento de erros  
 - Estrutura modular  
 
-## Tecnologias que utilizo
+## 💻 Tecnologias que utilizo
 - **C (Lógica e algoritmos)**
 - **HTML, CSS e JavaScript (Front-End básico)**
 - **SQL e Modelagem de Banco de Dados**
