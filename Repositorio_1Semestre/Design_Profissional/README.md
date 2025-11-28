@@ -6,11 +6,11 @@ Aqui estão reunidos elementos como currículo, certificados de atividades extra
 
 ### Conteúdos abordados
 
-Organização profissional e perfil no GitHub
+- Organização profissional e perfil no GitHub
 
-Montagem de portfólio técnico
+- Montagem de portfólio técnico
 
-Estruturação de currículo
+- Estruturação de currículo
 
 ### Repositório oficial
 
