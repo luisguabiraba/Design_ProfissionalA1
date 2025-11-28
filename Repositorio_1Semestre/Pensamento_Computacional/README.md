@@ -1,4 +1,4 @@
-### 📘 Sobre esta disciplina
+### Sobre esta disciplina
 Esta pasta serve como ponto de referência para o repositório oficial da disciplina **Algoritmos e Pensamento Computacional**, onde foram desenvolvidos projetos usando C focados em lógica e raciocínio computacional.
 
 ### Conteúdos abordados
