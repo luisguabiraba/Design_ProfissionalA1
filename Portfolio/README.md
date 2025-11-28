@@ -1,13 +1,23 @@
- # Oi! Eu sou o Luís Gustavo
+# Portfólio — Luís Gustavo
 
- Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UDF.
 
- Experiência como Auxiliar Administrativo
+Aqui você encontra alguns dos trabalhos mais relevantes que desenvolvi ao longo do curso.
 
- Interesses: tecnologia, programação, design digital, criação de projetos
+## Projeto em Destaque
 
- Habilidades: edição de vídeo (Adobe Premiere), Photoshop e pacote Office
+### Calculadora Científica em C
+Um projeto completo feito em linguagem C, utilizando funções, estrutura de decisão, biblioteca math, validações e boas práticas de modularização.
 
- Atualmente também estou desenvolvendo minha base na área de TI
+**Principais recursos:**
+- Operações matemáticas básicas  
+- Funções científicas  
+- Tratamento de erros  
+- Estrutura modular  
 
-📬 Contato: luisgustavogoncalves038@gmail.com
+## Tecnologias que utilizo
+- **C (Lógica e algoritmos)**
+- **HTML, CSS e JavaScript (Front-End básico)**
+- **SQL e Modelagem de Banco de Dados**
+
+Se quiser ver mais detalhes sobre cada disciplina, acesse os READMEs individuais dentro da pasta `Repositorios_1Semestre`.
