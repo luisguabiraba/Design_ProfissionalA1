@@ -1,6 +1,6 @@
 # Desenvolvimento Front-End
 
-Este repositório reúne os projetos e atividades desenvolvidos ao longo da disciplina **Desenvolvimento Front-End**, do 1º semestre de ADS (UDF).
+Este repositório reúne os projetos e atividades desenvolvidos ao longo da disciplina no 1º semestre de Desenvolvimento Front-End (UDF).
 
 ##  Sobre a disciplina
 A matéria aborda os fundamentos da criação de interfaces para a web, utilizando as principais tecnologias do desenvolvimento front-end.
