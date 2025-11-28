@@ -1,6 +1,6 @@
 # Algoritmos e Pensamento Computacional
 
-Este repositório reúne minhas atividades e projetos da disciplina **Algoritmos e Pensamento Computacional**, cursada no 1º semestre de ADS (UDF).  
+Este repositório reúne minhas atividades e projetos da disciplina no 1º semestre de *Algoritmos e Pensamento Computacional* (UDF).  
 
 ## Sobre a disciplina
 
