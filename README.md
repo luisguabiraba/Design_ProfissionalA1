@@ -19,7 +19,7 @@ Atualmente sigo aprendendo e desenvolvendo projetos nas áreas de:
 
 📬 **Contato:** luisgustavogoncalves038@gmail.com  
 🔗 **GitHub:** https://github.com/luisguabiraba  
-🔗 **LinkedIn:** linkedin.com/in/luís-gustavo-goncalves
+🔗 **LinkedIn:** www.linkedin.com/in/luís-gustavo-goncalves
 
 ---
 
