@@ -1,6 +1,6 @@
 # Modelagem de Banco de Dados
 
-Este repositório reúne minha atividade e produzida na disciplina durante o 1º semestre de ADS (UDF).  
+Este repositório reúne minha atividade e produzida na disciplina durante o 1º semestre de Modelagem de Banco de Dados (UDF).  
 Aqui trabalhei os conceitos fundamentais para projetar, normalizar e implementar bancos de dados relacionais.
 
 ## Sobre a disciplina
